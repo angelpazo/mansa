@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+header img {
+
+    margin: 10px;
+    border: 5px solid rgb(0, 0, 0);
+    width: 250px;
+    border-radius: 5px;
+
+}
+
+.P1 {
+    position: absolute;
+    left: 340px;
+    background-color: rgb(30, 168, 42);
+    border: 2px solid rgb(58, 58, 58);
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+}
+
+.P2 {
+    position: absolute;
+    left: 620px;
+    background-color: rgb(30, 168, 42);
+    border: 2px solid rgb(58, 58, 58);
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+
+}
+
+
+.vuelta{
+    padding: 15px;
+}
+
+.vuelta a{
+    background-color: rgb(214, 45, 22);
+    padding: 12px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+}
+
+.P3 {
+    position: absolute;
+    left: 900px;
+    background-color: rgb(30, 168, 42);
+    border: 2px solid rgb(58, 58, 58);
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+
+}
+
+body {
+    background-image: url(fondo\ nike.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+}
